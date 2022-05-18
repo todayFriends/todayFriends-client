@@ -1,4 +1,4 @@
-//flow -> typeScript 역할, flow 대신 typeScript 사용
+//flow -> typeScript 역할, flow 대신 typeScript 사용합니다.
 import React from 'react';
 import type {Node} from 'react';
 import {
